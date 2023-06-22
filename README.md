@@ -30,6 +30,6 @@ Lenguajes:
 - Orientado a resultados y comprometido con la calidad del código.
 
 ## Proyectos destacados
-- [Agrega aquí una lista de tus proyectos destacados o enlaces a repositorios relevantes]
+- https://github.com/kevinsiinho/easy.com.git
 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto interesante!
