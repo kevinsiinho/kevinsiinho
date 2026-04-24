@@ -17,6 +17,7 @@ Lenguajes:
 - Ionic
 - Loopback4
 - .NET
+- Django
 
 ##BD
 - Mysql
