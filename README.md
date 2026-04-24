@@ -1,5 +1,5 @@
 ## Sobre mí
-¡Hola! Soy Kevinsiinho, un apasionado por la programación y la tecnología. Me especializo en los siguientes lenguajes y tecnologías:
+¡Hola! Soy Kevin Andrades, un apasionado por la programación y la tecnología. Me especializo en los siguientes lenguajes y tecnologías:
 
 Lenguajes:
 - Python
@@ -20,8 +20,13 @@ Lenguajes:
 
 ##BD
 - Mysql
-- sql
+- Postgres
 - MongoDB
+
+
+##Otros
+- Docker
+- Administración de servidores 
 
 ## Virtudes
 - Creativo y apasionado por resolver problemas complejos.
@@ -30,3 +35,6 @@ Lenguajes:
 - Orientado a resultados y comprometido con la calidad del código.
 
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto interesante!
+
+
+Actualmente trabajando como desarrollador fullstack semi senior, pero con 100% de disponibilidad para nuevos proyectos ñ.
