@@ -29,7 +29,4 @@ Lenguajes:
 - Autodidacta y siempre dispuesto a aprender nuevas tecnologías.
 - Orientado a resultados y comprometido con la calidad del código.
 
-## Proyectos destacados
-- https://github.com/kevinsiinho/easy.com.git
-
 ¡No dudes en contactarme si tienes alguna pregunta o quieres colaborar en algún proyecto interesante!
